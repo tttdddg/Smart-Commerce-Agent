@@ -1,6 +1,6 @@
 ## Smart Commerce Agent
 ### 项目简介
-Smart Commerce Agent是基于**开源电商项目 mall（https://github.com/macrozheng/mall）**
+Smart Commerce Agent是基于**开源电商项目 mall  https://github.com/macrozheng/mall**
 深度改造的AI电商客服与导购Agent系统，在原有电商业务基础上，接入大模型与Agent能力，实现智能客服、商品咨询、订单查询、多轮导购等功能，打造更智能的电商交互体验。
 ### 项目背景
 原mall项目提供了完整的电商后台管理 + 前台商城体系，包含商品、订单、会员、营销等核心模块。本项目在其基础上：
