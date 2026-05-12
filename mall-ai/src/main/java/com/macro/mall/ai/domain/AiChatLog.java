@@ -2,6 +2,8 @@ package com.macro.mall.ai.domain;
 
 import lombok.Data;
 
+import java.util.Date;
+
 @Data
 public class AiChatLog {
     private Long id;
@@ -14,4 +16,5 @@ public class AiChatLog {
     private Long latencyMs;
     private Integer status;
     private String errorMsg;
+    private Date createTime;
 }
