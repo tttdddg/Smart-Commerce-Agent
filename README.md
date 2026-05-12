@@ -10,22 +10,22 @@ Smart Commerce Agent是基于**开源电商项目 mall  https://github.com/macro
 支持多轮对话、上下文管理、结构化输出、异常兜底
 ### 技术栈
 #### 后端核心
-Spring Boot
-Spring Security
-MyBatis
-MySQL
+Spring Boot+
+Spring Security+
+MyBatis+
+MySQL+
 Redis
 #### AI Agent 增强
-LangChain4j
-DeepSeek API
-Tool Calling
-Prompt Engineering
-上下文管理/Session缓存
+LangChain4j+
+DeepSeek API+
+Tool Calling+
+Prompt Engineering+
+上下文管理/Session缓存+
 结构化输出与结果校验
 #### 基础架构
-Docker
-Maven
-JWT
+Docker+
+Maven+
+JWT+
 Apifox
 ### 功能模块
 1. 基础电商能力（继承mall）
