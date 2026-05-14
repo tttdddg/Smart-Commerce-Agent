@@ -47,3 +47,6 @@ logging:
 logstash:
   host: localhost
   enableInnerLog: false
+
+server:
+  port: 8085
