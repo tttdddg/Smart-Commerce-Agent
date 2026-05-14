@@ -12,6 +12,7 @@ public class AiConfig {
 
     @Bean
     OpenAiChatModel openAiChatModel(
+            //TODO 环境url配置
             @Value("${ai.model.base-url}") String baseUrl,
             @Value("${ai.model.api-key}") String apiKey,
             @Value("${ai.model.model-name}") String modelName,
